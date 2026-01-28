@@ -47,3 +47,5 @@ Implementar mensagens de log claras e consistentes.
 Configuração de variáveis de ambiente para facilitar deploy em diferentes ambientes (desenvolvimento, teste e produção).
 
 Validações mais robustas
+
+Tornar a documentação Swagger mais completa, incluindo exemplos de erro, schemas detalhados e descrição de todos os endpoints.
